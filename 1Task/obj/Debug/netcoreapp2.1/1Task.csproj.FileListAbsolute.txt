@@ -1,0 +1,11 @@
+C:\Projects\Chapter2\1Task\bin\Debug\netcoreapp2.1\1Task.deps.json
+C:\Projects\Chapter2\1Task\bin\Debug\netcoreapp2.1\1Task.runtimeconfig.json
+C:\Projects\Chapter2\1Task\bin\Debug\netcoreapp2.1\1Task.runtimeconfig.dev.json
+C:\Projects\Chapter2\1Task\bin\Debug\netcoreapp2.1\1Task.dll
+C:\Projects\Chapter2\1Task\bin\Debug\netcoreapp2.1\1Task.pdb
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.csprojAssemblyReference.cache
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.AssemblyInfoInputs.cache
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.AssemblyInfo.cs
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.dll
+C:\Projects\Chapter2\1Task\obj\Debug\netcoreapp2.1\1Task.pdb
